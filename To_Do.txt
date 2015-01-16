@@ -6,5 +6,8 @@ Biology (Questions without graphs)
 Chemistry (Questions without graphs)
 
 
+RESULTS PAGE
 
-testing
+TIMER
+
+BUTTON
